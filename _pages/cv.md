@@ -12,8 +12,12 @@ redirect_from:
 Education
 ======
 * B.S. in Automation, Tongji University, 2021
-* Ph.D in Pattern Recognition and Intelligent System, Institute of Automation, Chinese Academy of Sciences, 2026 (expected)
-
+  * Major: Automation
+  * Supervisor: Prof. Zhuping Wang
+* Ph.D, Institute of Automation, Chinese Academy of Sciences, 2026 (expected)
+  * Major: Pattern Recognition and Intelligent System   
+  * Supervisor: Prof. Zengguang Hou
+  * Second Supervisor: Prof. Xiaohu Zhou
 Work experience
 ======
 * Summer 2015: Research Assistant

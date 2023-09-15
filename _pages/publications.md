@@ -8,12 +8,16 @@ redirect_from:
 ---
 {% include base_path %}
 
-Education
+2023
 ======
-* B.S. in Automation, Tongji University, 2021
-  * Major: Automation
-  * Supervisor: Prof. Zhuping Wang
-* Ph.D, Institute of Automation, Chinese Academy of Sciences, 2026 (expected)
-  * Major: Pattern Recognition and Intelligent System   
-  * Supervisor: Prof. Zengguang Hou
-  * Second Supervisor: Prof. Xiaohu Zhou
+> **Tianyu Xiang**, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Hongjun Yang, Zhenqiu Feng, Meijiang Gui, Hao Li, Dexing Huang, and Zengguang Hou, "Learning shared semantic information from multimodal bio-signals for brain-muscle modulation analysis", in Proceedings of the *31st ACM International Conference on Multimedia*.
+> **Tianyu Xiang**, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Zhenqiu Feng, Meijiang Gui, Hao Li, Zengguang Hou, "A DNN-based Learning Framework for Continuous Movements Segmentation",  in Proceedings of the *2023 International Conference on Neural Information Processing*.
+
+
+
+2022
+======
+
+
+2021
+======

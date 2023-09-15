@@ -20,7 +20,9 @@ redirect_from:
 
 2022
 ======
-* **Tianyu Xiang**, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Chen Wang, Meijiang Gui, Hao Li, and Zengguang Hou, "Single camera based gait analysis methods with scaled and image coordinate key-points," in Proceedings of The *2022 IEEE International Conference on Real-time Computing and Robotics (RCAR)*, Guiyang, China, pp. 25-32, July 17-22, 2022. **（Best Paper Award）**  
+* **Tianyu Xiang**, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Chen Wang, Meijiang Gui, Hao Li, and Zengguang Hou, "Single camera based gait analysis methods with scaled and image coordinate key-points," in Proceedings of The *2022 IEEE International Conference on Real-time Computing and Robotics (RCAR)*, Guiyang, China, pp. 25-32, July 17-22, 2022. **（Best Paper Award）** [View Paper](https://ieeexplore.ieee.org/abstract/document/9872256)
+
+
 
 2021
 ======

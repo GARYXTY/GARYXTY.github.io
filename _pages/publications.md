@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "Publications"
-permalink: /Publications_new/
+permalink: /Publications/
 author_profile: true
 ---

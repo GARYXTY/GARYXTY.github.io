@@ -84,10 +84,10 @@ author:
   avatar           : "xty.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : Institute of Automation, Chinese Academy of Sciences
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=S3oniHQAAAAJ&hl=zh-CN"
-  email            :
+  email            : xiangtianyu2021@ia.ac.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

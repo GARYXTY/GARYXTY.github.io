@@ -32,12 +32,12 @@ redirect_from:
 2021
 ======
 
-* Chenzhao Feng*, **Tianyu Xiang***, Zixuan Yi*, Lingzhe Zhao, Sisi He, Kunming Tian, "An Ensemble Model for Tumor Type Identification and Cancer Origins Classification," in Proceedings of the *2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)*, pp. 1660-1665, 2021. [View Paper](https://ieeexplore.ieee.org/abstract/document/9629691)
+* Chenzhao Feng<sup>+<sup>, **Tianyu Xiang<sup>+<sup>**, Zixuan Yi<sup>+<sup>, Lingzhe Zhao, Sisi He, Kunming Tian, "An Ensemble Model for Tumor Type Identification and Cancer Origins Classification," in Proceedings of the *2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)*, pp. 1660-1665, 2021. [View Paper](https://ieeexplore.ieee.org/abstract/document/9629691)
 
-* Chenzhao Feng*, **Tianyu Xiang***, Zixuan Yi*, Xinyao Meng, Xufeng Chu, Guiyang Huang, Xiang Zhao, Feng Chen, Bo Xiong, Jiexiong Feng, "A Deep-Learning Model With the Attention Mechanism Could Rigorously Predict Survivals in Neuroblastoma," *Frontiers in Oncology*, p.11:653863, 2021. [View Paper](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2021.653863/full)
+* Chenzhao Feng<sup>+<sup>, **Tianyu Xiang<sup>+<sup>**, Zixuan Yi<sup>+<sup>, Xinyao Meng, Xufeng Chu, Guiyang Huang, Xiang Zhao, Feng Chen, Bo Xiong, Jiexiong Feng, "A Deep-Learning Model With the Attention Mechanism Could Rigorously Predict Survivals in Neuroblastoma," *Frontiers in Oncology*, p.11:653863, 2021. [View Paper](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2021.653863/full)
 
 
 2020
 ======
 
-* **Tianyu Xiang***, Lingzhe Zhao*, Hao Zhang, Zhang Wang, "MonoER - An Edge Refined Self-Supervised Monocular Depth Estimation Method," 2020 Chinese Automation Congress (CAC), pp. 1074-1079, 2020. [View Paper](https://ieeexplore.ieee.org/abstract/document/9326510)
+* **Tianyu Xiang<sup>+<sup>**, Lingzhe Zhao<sup>+<sup>, Hao Zhang, Zhang Wang, "MonoER - An Edge Refined Self-Supervised Monocular Depth Estimation Method," 2020 Chinese Automation Congress (CAC), pp. 1074-1079, 2020. [View Paper](https://ieeexplore.ieee.org/abstract/document/9326510)

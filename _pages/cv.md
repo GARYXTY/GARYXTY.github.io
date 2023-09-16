@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Automation, Tongji University, 2021
+* B.S., School of Electronic and Information Engineering, Tongji University, 2021
   * Major: Automation
   * Supervisor: Prof. Zhuping Wang
 * Ph.D, Institute of Automation, Chinese Academy of Sciences, 2026 (expected)

@@ -13,51 +13,16 @@ Education
 ======
 * B.S., School of Electronic and Information Engineering, Tongji University, 2021
   * Major: Automation
-  * Supervisor: Prof. Zhuping Wang
+  * Supervisor: Prof. [Zhuping Wang](https://ivcm.tongji.edu.cn/info/1100/1178.htm)
 * Ph.D, Institute of Automation, Chinese Academy of Sciences, 2026 (expected)
   * Major: Pattern Recognition and Intelligent System   
-  * Supervisor: Prof. Zengguang Hou
-  * Second Supervisor: Prof. Xiaohu Zhou
+  * Supervisor: Prof. [Zengguang Hou](https://people.ucas.ac.cn/~houzengguang)
+  * Secondary Supervisor: Prof. [Xiaohu Zhou](https://people.ucas.edu.cn/~xhz)
   
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Dell EMC 2020: Software Engineer Internship
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* NIO 2021: Algorithm Engineer Internship
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

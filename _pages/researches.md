@@ -16,11 +16,11 @@ Overall Goal
 
 The overall goal of my research is to enable robots to achieve manipulation skills as dexterous as humans. To achieve this goal, we first start with human operational behaviors, exploring the brain's control mechanism over muscles during manipulation. Based on this, we will design robot skill learning algorithms, enabling robots to acquire human-like operational skills. Specifically, our research first aims to explain **how humans perform operations**, and then addresses **how robots learn skills**. So far, my research has mainly focused on the former question. However, we will soon move on to the next phase.
 
+<br>
+<br>
 
 Stage 1: How humans perform operations?
 ====
-<br>
-<br>
 
 Research 1: Sequence Manipulation Modeling
 ---
@@ -38,7 +38,8 @@ Research 2: Analysis of Brain-muscle Modulation
 
 In order to analyze brain-muscle modulation during the manipulation, we embedded the representations of brain activities measured by EEG and corresponding muscular responses recorded by EMG into a shared space (**ACM MM 2023; ROBIO 2022**). By analyzing the embedding process, our research can accurately reproduce the brain activities during the execution of different operations. We elaborated on the associations between brain activities and muscle responses in different dimensions, such as temporal, spatial, and temporal-spatial. The conclusions drawn from our analysis align with research in the field of neuroscience.
 
-
+<br>
+<br>
 
 Stage 2: How Robots Learn Skills?
 ====

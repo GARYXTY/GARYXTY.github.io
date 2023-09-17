@@ -19,5 +19,7 @@ Before my Ph.D. journey, I received my B.S. degree from Tongji University (2017-
 
 Latest News
 ======
-* My paper "Learning shared semantic information from multimodal bio-signals for brain-muscle modulation analysis" is accepted by ICONIP 2023. (20230801)
-* My paper "A DNN-based Learning Framework for Continuous Movements Segmentation" is accepted by ACM MM 2023. (20230726)
+* My paper "A DNN-based Learning Framework for Continuous Movements Segmentation" is accepted by ICONIP 2023. (20230801)
+* My paper "Learning shared semantic information from multimodal bio-signals for brain-muscle modulation analysis" is accepted by ACM MM 2023. (20230726)
+
+

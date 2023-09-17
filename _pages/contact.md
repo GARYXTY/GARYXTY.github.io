@@ -20,6 +20,8 @@ Contact Information
     <img src="map.png" width="600">
   </a>
 </p>
+[![Map Image](map.png)](https://www.openstreetmap.org/relation/10952564)
+
 
 
 

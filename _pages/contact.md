@@ -17,7 +17,7 @@ Contact Information
 
 <p align="center">
   <a href="https://www.openstreetmap.org/relation/10952564">
-    <img src="map.jpg" width="600">
+    <img src="map.png" width="600">
   </a>
 </p>
 

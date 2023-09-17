@@ -15,6 +15,6 @@ Contact Information
 * Postcode: 100190
 * E-mail: xiangtianyu2021@ia.ac.cn
 
-[![Map Image](path_to_your_image.png)](https://www.openstreetmap.org/relation/10952564)
+[![Map Image](map.png)](https://www.openstreetmap.org/relation/10952564)
 
 

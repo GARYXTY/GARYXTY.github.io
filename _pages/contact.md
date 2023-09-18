@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+**If there is anything to discuss or any potential collaboration opportunities, please do not hesitate to contact me.**
+
 Contact Information
 ======
 * Location: 95 Zhongguancun East Road, 100190, Beijing, China

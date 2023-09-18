@@ -16,7 +16,7 @@ I have been a Ph.D. student at the Medical Robotics Lab, Institute of Automation
 
 Before my Ph.D. journey, I received my B.S. degree from Tongji University (2017-2021), graduating with the highest honor - Academic Star (ranking in the top 10 out of all undergraduate students). I pursued my studies at the School of Electronic and Information Engineering and had the privilege of being supervised by Prof. [Zhuping Wang](https://ivcm.tongji.edu.cn/info/1100/1178.htm). During my time there, I collaborated with Mr. Lingzhe Zhao on research related to monocular depth estimation and visual odometry for enhancing robotic visual perception. Additionally, I have collaborated with Mr. Chenzhao Feng from Tongji Medical College of HUST and Ms. Zixuan Yi from Wuhan University to conduct research on cancer subtype classification and prognosis analysis based on bioinformatics.
 
-If there is anything to discuss or any potential collaboration opportunities, please do not hesitate to contact me ([E-mail](xiangtianyu2021@ia.ac.cn)).
+If there is anything to discuss or any potential collaboration opportunities, please do not hesitate to contact me ([E-mail](mailto:xiangtianyu2021@ia.ac.cn)).
 
 
 Latest News

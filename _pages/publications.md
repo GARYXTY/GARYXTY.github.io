@@ -10,15 +10,21 @@ redirect_from:
 
 2023
 ======
-* Meijiang Gui, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Zhenqiu Feng, Hao Li, **Tianyu Xiang**, Dexing Huang, Boxian Yao, Zengguang Hou, "Design and Construction of a Spherical Magnet Array for Multi-dimensional Tactile Perception", in Proceedings of the *2023 IEEE International Conference on Real-time Computing and Robotics (RCAR)*, pp. 25-31, 2023. **（Best Paper Award）** [View Paper](https://ieeexplore.ieee.org/abstract/document/10249496)
+* **Tianyu Xiang**, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Chen Wang, Meijiang Gui, Hao Li, and Zengguang Hou, "Quantitative movement analysis using scaled information implied in monocular videos," *IEEE Transactions on Medical Robotics and Bionics*, vol. 5, no. 1, pp. 88-99, 2023. [View Paper](https://ieeexplore.ieee.org/abstract/document/10026874)
 
 * **Tianyu Xiang**, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Hongjun Yang, Zhenqiu Feng, Meijiang Gui, Hao Li, Dexing Huang, and Zengguang Hou, "Learning shared semantic information from multimodal bio-signals for brain-muscle modulation analysis," in Proceedings of the *31st ACM International Conference on Multimedia*. [View Paper](https://dl.acm.org/doi/10.1145/3581783.3613794)
 
-* **Tianyu Xiang**, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Zhenqiu Feng, Meijiang Gui, Hao Li, Zengguang Hou, "A DNN-based Learning Framework for Continuous Movements Segmentation,"  in Proceedings of the *2023 International Conference on Neural Information Processing*.
+* **Tianyu Xiang**, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Zhenqiu Feng, Meijiang Gui, Hao Li, Zengguang Hou, "A DNN-based Learning Framework for Continuous Movements Segmentation,"  in Proceedings of the *2023 International Conference on Neural Information Processing*, 399-410, 2023. [View Paper](https://link.springer.com/chapter/10.1007/978-981-99-8067-3_30)
+  
+* Meijiang Gui, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Zhenqiu Feng, Hao Li, **Tianyu Xiang**, Dexing Huang, Boxian Yao, Zengguang Hou, "Design and Construction of a Spherical Magnet Array for Multi-dimensional Tactile Perception", in Proceedings of the *2023 IEEE International Conference on Real-time Computing and Robotics (RCAR)*, pp. 25-31, 2023. **（Best Paper Award）** [View Paper](https://ieeexplore.ieee.org/abstract/document/10249496)
+
+* Hao Li, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Meijiang Gui, **Tianyu Xiang**, Dexing Huang, Zengguang Hou, "Effective Skill Learning on Vascular Robotic Systems: Combining Offline and Online Reinforcement Learning", in Proceedings of the *2023 International Conference on Neural Information Processing*, 28–40, 2023. [View Paper](https://link.springer.com/chapter/10.1007/978-981-99-8184-7_3)
 
 * Hao Li, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Meijiang Gui, **Tianyu Xiang**, Jinli Wang, and Zengguang Hou, "Discrete soft actor-critic with auto-encoder on vascular robotic system," *Robotica*, vol. 41, no. 4, pp. 1115-1126, 2023. [View Paper](https://www.cambridge.org/core/journals/robotica/article/abs/discrete-soft-actorcritic-with-autoencoder-on-vascular-robotic-system/B4B948DF75E9B30445923603C5CD2BC5)
 
-* **Tianyu Xiang**, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Chen Wang, Meijiang Gui, Hao Li, and Zengguang Hou, "Quantitative movement analysis using scaled information implied in monocular videos," *IEEE Transactions on Medical Robotics and Bionics*, vol. 5, no. 1, pp. 88-99, 2023. [View Paper](https://ieeexplore.ieee.org/abstract/document/10026874)
+* Wentao Wang, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Dexing Huang, Hao Li, Tianyu Xiang, Zengguang Hou,"MEDIA-Net: Multi-scale Feature Extraction and DepthwIse Attention Network for Accurate Carotid Artery Segmentation," *Procedia Computer Science*, Vol. 226, pp. 1-7, 2023. [View Paper](https://www.sciencedirect.com/science/article/pii/S1877050923017957)
+
+
 
 2022
 ======

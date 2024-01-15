@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+2024
+====
+
+* Meijiang Gui, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Zhenqiu Feng, Hao Li, **Tianyu Xiang**, Dexing Huang, Boxian Yao, Yonggen Ling, Zengguang Hou, "Design and construction of a spherical magnet array for multi-dimensional tactile perception", *IEEE Transactions on Medical Robotics and Bionics*, 2024, doi: 10.1109/TMRB.2024.3349622. [View Paper](https://ieeexplore.ieee.org/abstract/document/10381648)
 
 2023
 ======

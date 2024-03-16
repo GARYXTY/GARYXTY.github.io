@@ -21,6 +21,7 @@ Before my Ph.D. journey, I received my B.S. degree from Tongji University (2017-
 
 Latest News
 ======
+* My paper "Cross-Modal Motor Representation Learning" has been accepted by the IEEE World Congress on Computational Intelligence (IEEE WCCI 2024). (20240315)
 * My paper "A self-supervised monocular odometry with visual-inertial and depth representations" has been accepted by the Journal of the Franklin Institute. (202402)
 * My paper "A DNN-based Learning Framework for Continuous Movements Segmentation" has been accepted by ICONIP 2023. (20230801)
 * My paper "Learning shared semantic information from multimodal bio-signals for brain-muscle modulation analysis" has been accepted by ACM MM 2023. (20230726)

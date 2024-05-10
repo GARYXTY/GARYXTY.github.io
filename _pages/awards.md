@@ -18,6 +18,7 @@ Academic Awards
 
 Scholarship
 ======
+* IEEE CIS Travel Grant, 2024
 * China National Scholarship (Graduate Student), 2022
 * Qidi Scholarship, 2020
 * Tongji University Athletic Scholarship， 2020

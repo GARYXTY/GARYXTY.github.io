@@ -21,7 +21,8 @@ Before my Ph.D. journey, I received my B.S. degree from Tongji University (2017-
 
 Latest News
 ======
-* I have won the IEEE CIS Travel Grant for participation in the IEEE World Congress on Computational Intelligence (WCCI) 2024.(202405)
+* My paper "Learning Motor Cues in Brain-Muscle Modulation" has been accepted by the IEEE Transactions on Cybernetics. (202405)
+* I have won the IEEE CIS Travel Grant for participation in the IEEE World Congress on Computational Intelligence (WCCI) 2024. (202405)
 * I followed my team to win the 2024 Zhongguancun Sub-district Five-a-Side Football Tournament championship. (202404）
 * My paper "Cross-Modal Motor Representation Learning" has been accepted by the IEEE World Congress on Computational Intelligence (IEEE WCCI 2024). (20240315)
 * My paper "A self-supervised monocular odometry with visual-inertial and depth representations" has been accepted by the Journal of the Franklin Institute. (202402)

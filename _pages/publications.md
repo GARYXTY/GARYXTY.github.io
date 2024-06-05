@@ -10,7 +10,15 @@ redirect_from:
 
 2024
 ====
+* **Tianyu Xiang**, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Hongjun Yang, Fengzhen Qiu, Meijiang Gui, Hao Li, De-Xing Huang, Xiu-Ling Liu, and Zengguang Hou, “Learning EEG motor characteristics via temporal-spatial representations”, *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2024.
+
+* **Tianyu Xiang**, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Meijiang Gui, Hao Li, De-Xing Huang, Xiu-Ling Liu, and Zengguang Hou, “Learning motor cues in brain-muscle modulation”, *IEEE Transactions on Cybernetics*, 2024.
+
+* **Tianyu Xiang**, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Meijiang Gui, Hao Li, De-Xing Huang, and Zengguang Hou, “Cross-modal motor representation learning”, in *proceedings of the 2024 International Joint Conference on Neural Networks (IJCNN)*, 2024. **（IEEE CIS Travel Grant）**
+
 * Lingzhe Zhao<sup>+</sup>, **Tianyu Xiang<sup>+</sup>**, Zhuping Wang, "A self-supervised monocular odometry with visual-inertial and depth representations", *Journal of the Franklin Institute*, 2024. [View Paper](https://www.sciencedirect.com/science/article/pii/S0016003224001194)
+
+* Hao Li, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Zhenqiu Feng, Meijiang Gui, **Tianyu Xiang**, Dexing Huang, Boxian Yao, Yonggen Ling, Zengguang Hou, "Model-based offline reinforcement learning for autonomous delivery of guidewire", *IEEE Transactions on Medical Robotics and Bionics*, vol. 6, no. 1, pp. 340-350, 2024. [View Paper](https://ieeexplore.ieee.org/abstract/document/10542446/authors#authors)
 
 * Meijiang Gui, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Zhenqiu Feng, Hao Li, **Tianyu Xiang**, Dexing Huang, Boxian Yao, Yonggen Ling, Zengguang Hou, "Highly interpretable representation for multi-dimensional tactile perception", *IEEE Transactions on Medical Robotics and Bionics*, vol. 6, no. 1, pp. 340-350, 2024. [View Paper](https://ieeexplore.ieee.org/abstract/document/10381648)
 

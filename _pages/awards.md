@@ -11,6 +11,7 @@ redirect_from:
 
 Academic Awards
 ======
+* First Prize in the 6th "Shenhao Cup" China Postgraduate Robot Innovation and Design Competition. (top10/1200)
 * The 3rd Direct Ph.D. Pilot Program (直博实验班) of Institute of Automation, Chinese Academy of Sciences (top 10), 2023
 * Best Paper Award in 2022 IEEE International Conference on Real-time Computing and Robotics (RCAR), 2022
 * Shanghai Outstanding Graduate (top 2%), 2021

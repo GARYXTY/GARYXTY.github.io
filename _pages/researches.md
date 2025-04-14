@@ -52,4 +52,6 @@ In order to analyze brain-muscle modulation during the manipulation, we embedded
 Stage 2: How Robots Learn Skills.
 ====
 
+![RLPK](RLPK.jpg)
+
 In the future, we will apply the research results from the first phase to the study of robot skill learning. New work is coming soon!!!

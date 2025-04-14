@@ -42,7 +42,7 @@ Human motor skills are characterized by sequences of motor movements governed by
 Research 2: Analysis of Brain-muscle Modulation
 ---
 
-![r2](r2.png)
+![CABMA](CABMA.jpg)
 
 In order to analyze brain-muscle modulation during the manipulation, we embedded the representations of brain activities measured by EEG and corresponding muscular responses recorded by EMG into a shared space (**ACM MM 2023; ROBIO 2022**). By analyzing the embedding process, our research can accurately reproduce the brain activities during the execution of different operations. We elaborated on the associations between brain activities and muscle responses in different dimensions, such as temporal, spatial, and temporal-spatial. The conclusions drawn from our analysis align with research in the field of neuroscience.
 

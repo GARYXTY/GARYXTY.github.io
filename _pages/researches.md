@@ -54,6 +54,19 @@ The downstream proxy tasks we designed validate the effectiveness of our shared 
 Stage 2: How Robots Learn Skills.
 ====
 
+Research 1: Priori Knowledge Transferring for Enhanced Robotic Learning
+---
 ![RLPK](RLPK.jpg)
 
-In the future, we will apply the research results from the first phase to the study of robot skill learning. New work is coming soon!!!
+Enhancing the manipulation abilities of robots critically depends on enabling the learning model to acquire the prior knowledge associated with specific tasks. We have investigated two strategies for integrating such prior knowledge:
+
+* **Priori knowledge transfer through interaction with expert** ([Arxiv 2025](https://arxiv.org/abs/2503.04163)): In this study, we directly combine the decisions of human/rule-based experts with those of the robot model, fostering a collaboration that enables the completion of various manipulation tasks. Experimental results indicate that even a small degree of expert-robot integration can significantly increase the success rate of the robot’s learning model. Moreover, the interaction generates operational data that can be used to further fine-tune the model, leading to enhanced performance.
+
+* **Priori knowledge transfer through generated demonstration** ([2025 ICLR WorkShop on GenBot](https://arxiv.org/abs/2412.09286), [Runner Up of IEEE CIS FLAME 2024](https://cis.ieee.org/activities/educational-activites/competitions/flame-technical-challenge-2024-final-submissions)): In this study, we leverage large generative models—including large language models and video generative models—that possess prior understanding of manipulation tasks. Based on natural-language-based descriptions of a task, these models generate corresponding demonstration videos, from which we extract action sequences to form state-action pairs. These pairs are then used to tune the robot model, thereby equipping the robot with the ability to perform new tasks. Validation on models built upon RT1 and LCBC shows that the generated demonstrations can boost the robot's task performance by approximately 40%.
+
+
+
+<br>
+<br>
+In the future, we will continue our research, including—but not limited to—exploring how to enable robots to acquire manipulation skills as efficiently as humans and comparing the learning differences between robots and humans. New works will come soon!!!
+---

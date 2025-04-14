@@ -68,5 +68,6 @@ Enhancing the manipulation abilities of robots critically depends on enabling th
 
 <br>
 <br>
-In the future, we will continue our research, including—but not limited to—exploring how to enable robots to acquire manipulation skills as efficiently as humans and comparing the learning differences between robots and humans. New works will come soon!!!
----
+
+**In the future, we will continue our research, including—but not limited to—exploring how to enable robots to acquire manipulation skills as efficiently as humans and comparing the learning differences between robots and humans. New works will come soon!!!**
+

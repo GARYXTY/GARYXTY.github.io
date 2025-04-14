@@ -25,7 +25,7 @@ Stage 1: How humans perform operations.
 Research 1: Multi-scale Manipulation Behavior Modeling
 ---
 
-![r1](r1.png)
+![MMBM](MMBM.jpg)
 
 Human motor skills are characterized by sequences of motor movements, attributed to the hierarchical control strategy in the brain. Therefore, we model the operator's operational sequence through behavioral data to more accurately reflect human operational behavior. Through a monocular camera (**TMRB 2023; RCAR 2022**) and electrophysiological signals (**ICONIP 2023**), we analyzed the operational behavior of different subjects. This allowed us to extract key parameters of the motor sequences and reflected the unique operational rhythm of different operators during the process.
 <br>

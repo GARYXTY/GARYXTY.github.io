@@ -14,15 +14,15 @@ Overall Goal
 
 ![overall](r0.png)
 
-The overall goal of my research is to enable robots to achieve manipulation skills as dexterous as humans. To achieve this goal, we first start with human operational behaviors, exploring the brain's control mechanism over muscles during manipulation. Based on this, we will design robot skill learning algorithms, enabling robots to acquire human-like operational skills. Specifically, our research first aims to explain **how humans perform operations**, and then addresses **how robots learn skills**. So far, my research has mainly focused on the former question. However, we will soon move on to the next phase.
+The overall goal of my research is to enable robots to acquire manipulation skills at the human level. To achieve this, we begin by investigating human behavior and exploring the brain’s control mechanisms over muscles during manipulation tasks. Our objective is to translate insights from human experts' manipulation into robotic systems, enabling robots to learn like humans and enhancing their operational capabilities—including improved success rates, broader generalization, and increased dexterity. Specifically, we have structured our research into two stages: first, we strive to explain **how humans perform operations**, and then we address **how robots can learn these skills**. Below is a brief overview of our current progress.
 
 <br>
 <br>
 
-Stage 1: How humans perform operations?
+Stage 1: How humans perform operations.
 ====
 
-Research 1: Sequence Manipulation Modeling
+Research 1: Multi-scale Manipulation Behavior Modeling
 ---
 
 ![r1](r1.png)
@@ -41,7 +41,7 @@ In order to analyze brain-muscle modulation during the manipulation, we embedded
 <br>
 <br>
 
-Stage 2: How Robots Learn Skills?
+Stage 2: How Robots Learn Skills.
 ====
 
 In the future, we will apply the research results from the first phase to the study of robot skill learning. New work is coming soon!!!

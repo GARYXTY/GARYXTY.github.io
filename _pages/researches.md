@@ -39,12 +39,14 @@ Human motor skills are characterized by sequences of motor movements governed by
 <br>
 <br>
 
-Research 2: Analysis of Brain-muscle Modulation
+Research 2: Cross-modal Alignment for Brain-Muscle Modulation Analyzing
 ---
 
 ![CABMA](CABMA.jpg)
 
-In order to analyze brain-muscle modulation during the manipulation, we embedded the representations of brain activities measured by EEG and corresponding muscular responses recorded by EMG into a shared space (**ACM MM 2023; ROBIO 2022**). By analyzing the embedding process, our research can accurately reproduce the brain activities during the execution of different operations. We elaborated on the associations between brain activities and muscle responses in different dimensions, such as temporal, spatial, and temporal-spatial. The conclusions drawn from our analysis align with research in the field of neuroscience.
+To explicitly understand how the brain controls muscle during manipulation, our research aligns the representations of EEG-measured brain activity with the corresponding EMG-recorded muscular responses in a shared space. By analyzing the intrinsic properties of these signals and their impact on downstream tasks, we can quantitatively capture the modulation process between the brain and muscles. We have explored various methods to align these cross-modal signals, including Siamese learning ([ACM MM 2023](https://dl.acm.org/doi/abs/10.1145/3581783.3613794)), disentangled representation learning ([IJCNN 2024](https://ieeexplore.ieee.org/abstract/document/10650264)), and contrastive learning ([IEEE TCYBER 2025](https://ieeexplore.ieee.org/abstract/document/10722863)). 
+
+The downstream proxy tasks we designed validate the effectiveness of our shared representation learning—evidenced by an approximately 4% improvement in relative motor classification accuracy and enhanced fidelity of the cross-modal generated signals (MMD: 0.027; DTW: 20.44). Furthermore, by introducing perturbations to the raw signals and evaluating our trained model’s performance on downstream tasks, we further examine how the brain modulates muscle activity during manipulation. Remarkably, our outcomes align with neuroscience findings across spatial, temporal, and frequency dimensions.
 
 <br>
 <br>

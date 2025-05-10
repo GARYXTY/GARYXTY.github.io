@@ -11,6 +11,7 @@ redirect_from:
 
 Academic Awards
 ======
+* IEEE CIS Graduate Student Research Grant, 2025
 * Runner Up Prize in 2024 IEEE CIS FLAME Technical Challenge, 2024
 * First Prize in the 6th "Shenhao Cup" China Postgraduate Robot Innovation and Design Competition, 2024. (top10/1200)
 * The 3rd Direct Ph.D. Pilot Program (直博实验班) of Institute of Automation, Chinese Academy of Sciences (top 10), 2023

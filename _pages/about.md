@@ -24,8 +24,9 @@ Before my Ph.D. journey, I received my B.S. degree from Tongji University (2017-
 
 Latest News
 ======
-* My proposal on “Brain-inspired Computational Intelligence Algorithm for Human Learning Modeling” has been supported by the "IEEE CIS Graduate Student Research Grant". (202505)
-* My paper "Upper Limb Motor Sequence Analysis: From Isolated to Sequential" has been accepted by the IEEE Transactions on Industrial Informatics. (202502)
+* Our paper "Cross-Dataset Montage Alignment via Electroencephalogram Source Imaging for Enhanced Motor Decoding" has been accepted by the IEEE Transactions on  Cognitive and Developmental Systems. (202510)
+* Our proposal on “Brain-inspired Computational Intelligence Algorithm for Human Learning Modeling” has been supported by the "IEEE CIS Graduate Student Research Grant". (202505)
+* Our paper "Upper Limb Motor Sequence Analysis: From Isolated to Sequential" has been accepted by the IEEE Transactions on Industrial Informatics. (202502)
 * I have been awarded as "Ruwei Dai"(戴汝为) First-Prize Scholarship. (202501)
 
 

@@ -1,4 +1,4 @@
-<img width="4125" height="85" alt="image" src="https://github.com/user-attachments/assets/f63048d6-8364-4c6e-9092-1413e5007d80" />---
+---
 layout: archive
 title: ""
 permalink: /publications/
@@ -10,6 +10,7 @@ redirect_from:
 
 2025
 ====
+
 * **Tianyu Xiang**, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Meijiang Gui, Hao Li, De-Xing Huang, Xiu-Ling Liu, and Zengguang Hou, “Learning motor cues in brain-muscle modulation”, *IEEE Transactions on Cybernetics*, vol. 55, no. 1, pp. 86-98, 2025. [view paper](https://ieeexplore.ieee.org/abstract/document/10722863)
   
 * **Tianyu Xiang**, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Hongjun Yang, Fengzhen Qiu, Meijiang Gui, Hao Li, De-Xing Huang, Xiu-Ling Liu, and Zengguang Hou, “Learning EEG motor characteristics via temporal-spatial representations”, *IEEE Transactions on Emerging Topics in Computational Intelligence*, vol. 9, no. 1, pp. 933-945, 2025. [view paper](https://ieeexplore.ieee.org/abstract/document/10663067)

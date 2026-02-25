@@ -34,11 +34,11 @@ redirect_from:
 
 * Sicheng Wang<sup>+</sup>, **Tianyu Xiang<sup>+</sup>**, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Shuangyi Wang, Aoqun Jin, Zengguang Hou, “VLA model post-training via action-chunked PPO and self-behavior cloning,” *IEEE/RSJ IROS 2025 Workshop on Foundation Models for Robot Design*, 2025. [view paper](https://arxiv.org/abs/2509.25718)
 
-* Shengbin Duan<sup>+</sup>, **Tianyu Xiang<sup>+</sup>**, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Zhichao Lai, Jianlong Hao, Zengguang Hou, "Test-time training for inter-subject generalization in SSVEP-based BCI", in *Proceedings of the 2025 International Conference on Information and Automation (ICIA)*, 2025. (**Best Paper Finalists**). [View paper](https://ieeexplore.ieee.org/abstract/document/11277456/)
+* Shengbin Duan<sup>+</sup>, **Tianyu Xiang<sup>+</sup>**, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Zhichao Lai, Jianlong Hao, Zengguang Hou, "Test-time training for inter-subject generalization in SSVEP-based BCI", in *Proceedings of the 2025 International Conference on Information and Automation (ICIA)*, pp.502-507, 2025. (**Best Paper Finalists**). [View paper](https://ieeexplore.ieee.org/abstract/document/11277456/)
 
 * Meijiang Gui, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Shuangyi Wang, Haichuan Liao, **Tianyu Xiang**, Dexing Huang, Boxian Yao, Zengguang Hou, "A novel orthogonal Halbach bilayer for super-resolution tactile perception", *IEEE/ASME Transactions on Mechatronics*, vol. 30, no. 6, pp. 7866-7877, 2025. [View paper](https://ieeexplore.ieee.org/abstract/document/11049936)
 
-* Dexing Huang, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Shuangyi Wang, Hao Li, **Tianyu Xiang**, Zengguang Hou, "CAS-GAN for contrast-free angiography synthesis", in *Proceedings of the 2025 IEEE Symposium Series on Computational Intelligence (SSCI)*, 2025. (**Best Paper Finalists**). [view paper](https://arxiv.org/abs/2410.08490)
+* Dexing Huang, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Shuangyi Wang, Hao Li, **Tianyu Xiang**, Zengguang Hou, "CAS-GAN for contrast-free angiography synthesis", in *Proceedings of the 2025 IEEE Symposium Series on Computational Intelligence (SSCI)*, 2025. (**Best Paper Finalists**). [view paper](https://ieeexplore.ieee.org/abstract/document/11060856/)
 
 
 

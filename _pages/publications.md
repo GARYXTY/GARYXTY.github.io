@@ -8,6 +8,13 @@ redirect_from:
 ---
 {% include base_path %}
 
+2026
+====
+
+* **Tianyu Xiang<sup>+</sup>**, Zheng Lei<sup>+</sup>, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, , Hongyun Ou, Xinzheng Huang, Xinyi Fu, Zengguang Hou, "Task-oriented learning for automatic EEG denoising", *IEEE Transactions on Instrumentation & Measurement*, 2026. (Accept)
+
+* Dexing Huang, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Shuangyi Wang, **Tianyu Xiang**, Ruize Ma, Nufang Xiao, Zengguang Hou, "VasoMIM: vascular anatomy-aware masked image modeling for vessel segmentation" Accepted by the Annual AAAI Conference on Artificial Intelligence (AAAI).
+
 2025
 ====
 
@@ -17,13 +24,23 @@ redirect_from:
 
 * **Tianyu Xiang**, Xiaohu Zhou,  Meijiang Gui, Xiaoliang Xie, Shiqi Liu,, Hao Li, Dexing Huang, Jiaxing Wang, Yongqiang Tang, Jiamou Liu, Xiu-Ling Liu, and Zengguang Hou, “"Upper limb motor sequence analysis: from isolated to sequential”, *IEEE Transactions on Industrial Informatics*, vol. 21, no. 7, pp. 5093 - 5103, 2025. [view paper](https://ieeexplore.ieee.org/abstract/document/10966163)
 
-* **Tianyu Xiang<sup>+</sup>**, W. Wang<sup>+</sup>, Xiaohu Zhou, Hongjun Yang, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Jiaxing Wang, Jiamou Liu, Zengguang Hou, “Cross-dataset montage alignment via EEG source imaging for enhanced motor decoding,” *IEEE Transactions on Cognitive and Developmental Systems*, 2025. (Accept)
+* **Tianyu Xiang<sup>+</sup>**, Wenkai Wang<sup>+</sup>, Xiaohu Zhou, Hongjun Yang, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Jiaxing Wang, Jiamou Liu, Zengguang Hou, “Cross-dataset montage alignment via EEG source imaging for enhanced motor decoding,” *IEEE Transactions on Cognitive and Developmental Systems*, 2025. (Accept)
 
 * **Tianyu Xiang<sup>+</sup>**, Aoqun Jin<sup>+</sup>, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Shuangyi Wang, Shengbin Duang, Sicheng Wang, Zheng Lei, Zengguang Hou, "VLA model-expert collaboration for bi-directional manipulation learning", arXiv preprint arXiv:2503.04163. [view paper](https://arxiv.org/abs/2503.04163), [website](https://aoqunjin.github.io/Expert-VLA/)
 
 * Aoqun Jin<sup>+</sup>, **Tianyu Xiang<sup>+</sup>**, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Shuangyi Wang, Yue Cao, Shengbin Duan, Fuchao Xie, Zengguang Hou, "Learning novel skills from language-generated demonstrations", *ICLR 2025 Workshop on Generative Models for Robot Learning*, 2025. [view paper](https://arxiv.org/abs/2412.09286), [website](https://aoqunjin.github.io/LNSLGD/)
 
+* Aoqun Jin<sup>+</sup>, **Tianyu Xiang<sup>+</sup>**, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Shuangyi Wang, Shengbin Duang, Sicheng Wang, Zheng Lei, Zengguang Hou, “VLA model-expert collaboration for bi-directional manipulation learning,” *IEEE/RSJ IROS 2025 Workshop on Human-in-the-Loop Robot Learning in the Era of Foundation Models: Challenges and Opportunities*, 2025. [view paper](https://arxiv.org/abs/2503.04163)
+
+* Sicheng Wang<sup>+</sup>, **Tianyu Xiang<sup>+</sup>**, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Shuangyi Wang, Aoqun Jin, Zengguang Hou, “VLA model post-training via action-chunked PPO and self-behavior cloning,” *IEEE/RSJ IROS 2025 Workshop on Foundation Models for Robot Design*, 2025. [view paper](https://arxiv.org/abs/2509.25718)
+
+* Shengbin Duan<sup>+</sup>, **Tianyu Xiang<sup>+</sup>**, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Zhichao Lai, Jianlong Hao, Zengguang Hou, "Test-time training for inter-subject generalization in SSVEP-based BCI", in *Proceedings of the 2025 International Conference on Information and Automation (ICIA)*, 2025. (**Best Paper Finalists**). [View paper](https://ieeexplore.ieee.org/abstract/document/11277456/)
+
+* Meijiang Gui, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Shuangyi Wang, Haichuan Liao, **Tianyu Xiang**, Dexing Huang, Boxian Yao, Zengguang Hou, "A novel orthogonal Halbach bilayer for super-resolution tactile perception", *IEEE/ASME Transactions on Mechatronics*, vol. 30, no. 6, pp. 7866-7877, 2025. [View paper](https://ieeexplore.ieee.org/abstract/document/11049936)
+
 * Dexing Huang, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Shuangyi Wang, Hao Li, **Tianyu Xiang**, Zengguang Hou, "CAS-GAN for contrast-free angiography synthesis", in *Proceedings of the 2025 IEEE Symposium Series on Computational Intelligence (SSCI)*, 2025. (**Best Paper Finalists**). [view paper](https://arxiv.org/abs/2410.08490)
+
+
 
 
 

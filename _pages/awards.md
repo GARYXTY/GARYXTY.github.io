@@ -21,6 +21,7 @@ Academic Awards
 
 Scholarship
 ======
+* “Biyadi” scholarship, 2025
 * First Prize of "RuWei Dai"(戴汝为) scholarship, 2025
 * IEEE CIS Travel Grant, 2024
 * China National Scholarship (Graduate Student), 2022

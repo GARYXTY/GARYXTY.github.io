@@ -11,7 +11,7 @@ redirect_from:
 2026
 ====
 
-* **Tianyu Xiang<sup>+</sup>**, Zheng Lei<sup>+</sup>, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, , Hongyun Ou, Xinzheng Huang, Xinyi Fu, Zengguang Hou, "Task-oriented learning for automatic EEG denoising", *IEEE Transactions on Instrumentation & Measurement*, 2026. (Accept)
+* **Tianyu Xiang<sup>+</sup>**, Zheng Lei<sup>+</sup>, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Hongyun Ou, Xinzheng Huang, Xinyi Fu, Zengguang Hou, "Task-oriented learning for automatic EEG denoising", *IEEE Transactions on Instrumentation & Measurement*, 2026. (Accept)
 
 * Dexing Huang, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Shuangyi Wang, **Tianyu Xiang**, Ruize Ma, Nufang Xiao, Zengguang Hou, "VasoMIM: vascular anatomy-aware masked image modeling for vessel segmentation" Accepted by the Annual AAAI Conference on Artificial Intelligence (AAAI).
 

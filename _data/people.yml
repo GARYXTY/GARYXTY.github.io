@@ -1,0 +1,26 @@
+# Students and mentees, shown on the About page.
+# Each entry needs: name, location, degree, year
+- name: Aoqun Jin
+  location: Hubei Normal University
+  degree: Mentee
+  year: Current
+
+- name: Xinyi Fu
+  location: Chongqing University
+  degree: Mentee
+  year: Current
+
+- name: Lingyun Li
+  location: University of Chinese Academy of Sciences
+  degree: Mentee
+  year: Current
+
+- name: Sicheng Wang
+  location: North China University of Technology
+  degree: Mentee
+  year: Current
+
+- name: Zheng Lei
+  location: Shaanxi University of Science and Technology
+  degree: Mentee
+  year: Current

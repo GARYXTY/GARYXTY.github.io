@@ -1,50 +1,39 @@
 ---
-layout: archive
-title: ""
+title: "CV"
+layout: gridlay
+sitemap: false
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Curriculum Vitae
 
-Education
-======
-* B.S., School of Electronic and Information Engineering, Tongji University, 2021
-  * Major: Automation
-  * Supervisor: Prof. [Zhuping Wang](https://ivcm.tongji.edu.cn/info/1100/1178.htm)
-* Ph.D, Institute of Automation, Chinese Academy of Sciences, 2026 (expected)
-  * Major: Pattern Recognition and Intelligent System   
-  * Supervisor: Prof. [Zengguang Hou](https://people.ucas.ac.cn/~houzengguang)
-  * Secondary Supervisor: Prof. [Xiaohu Zhou](https://people.ucas.edu.cn/~xhz)
-  
-Work experience
-======
-* Dell EMC 2020: Software Engineer Internship
+<div class="section-card">
+<h3>Education</h3>
+<ul>
+<li><strong>Ph.D. in Pattern Recognition and Intelligent Systems</strong>, Institute of Automation, Chinese Academy of Sciences, expected 2026
+  <ul>
+  <li>Supervisor: Prof. <a href="https://people.ucas.ac.cn/~houzengguang">Zengguang Hou</a></li>
+  <li>Co-supervisor: Prof. <a href="https://people.ucas.edu.cn/~xhz">Xiaohu Zhou</a></li>
+  </ul>
+</li>
+<li><strong>B.S. in Automation</strong>, School of Electronic and Information Engineering, Tongji University, 2021
+  <ul>
+  <li>Supervisor: Prof. <a href="https://ivcm.tongji.edu.cn/info/1100/1178.htm">Zhuping Wang</a></li>
+  </ul>
+</li>
+</ul>
+</div>
 
-* NIO 2021: Algorithm Engineer Internship
+<div class="section-card">
+<h3>Industry Experience</h3>
+<ul>
+<li>Software Engineer Intern, Dell EMC, 2020</li>
+<li>Algorithm Engineer Intern, NIO, 2021</li>
+</ul>
+</div>
 
-Student Mentoring Experience
-======
-
-Current:
----
-* Aoqun Jin@Hubei Normal University. 
-* Xinyi Fu@Chongqin University.
-* Lingyun Li@University of Chinese Academy of Sciences.
-* Sicheng Wang@North China University of Technology.
-* Rui Mu@Chongqin University.
-* Zheng Lei@Shaanxi University of Science & Technololgy.
-* Xinzheng Huang@China University of Petroleum.
-
-Previous:
----
-* Yuxin Meng (from Tongji University to Tsinghua University (M.S.)).
-* Hongyun Ou (Pursuing M.S. @Tokyo Institute of Technology).
-* Wenkai Wang (from University of Science and Technology Beijing to University of Chinese Academy of Sciences(M.S.)).
-* Fuchao Xie (from University of Science and Technology Beijing to University of Chinese Academy of Sciences (PhD)).
-* Shixuan Zhao (from Hebei University of Technology to Stanford University (M.S.)).
-
-  
-
+<div class="section-card">
+<h3>Student Mentoring</h3>
+<p><strong>Current:</strong> Aoqun Jin, Xinyi Fu, Lingyun Li, Sicheng Wang, Rui Mu, Zheng Lei, and Xinzheng Huang.</p>
+<p><strong>Previous:</strong> Yuxin Meng, Hongyun Ou, Wenkai Wang, Fuchao Xie, and Shixuan Zhao.</p>
+</div>

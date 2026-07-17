@@ -1,2 +1,14 @@
+tags
 _site/
-
+.jekyll-cache/
+.sass-cache/
+.bundle/
+vendor/
+qa-*.png
+.edge-*/
+.chrome-*/
+.DS_Store
+Gemfile.lock
+package-lock.json
+node_modules/
+.worktrees/

@@ -1,24 +1,19 @@
 ---
-layout: archive
-title: ""
+title: "Contact"
+layout: gridlay
+sitemap: false
 permalink: /contact/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Contact
 
-**If there is anything to discuss or any potential collaboration opportunities, please do not hesitate to contact me.**
-
-Contact Information
-======
-* Location: 95 Zhongguancun East Road, 100190, Beijing, China
-* Postcode: 100190
-* E-mail: xiangtianyu2021@ia.ac.cn
-
-[![Map Image](map.png)](https://www.openstreetmap.org/relation/10952564)
-
-
-
-
+<div class="section-card">
+<p>I welcome research discussions and potential collaborations in cognitive robotics, human–robot interaction, brain–computer interfaces, and robot learning.</p>
+<ul>
+<li><strong>Email:</strong> <a href="mailto:xiangtianyu2021@ia.ac.cn">xiangtianyu2021@ia.ac.cn</a></li>
+<li><strong>Affiliation:</strong> State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences</li>
+<li><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=S3oniHQAAAAJ&hl=en">Tianyu Xiang</a></li>
+<li><strong>ORCID:</strong> <a href="https://orcid.org/0000-0002-0967-0823">0000-0002-0967-0823</a></li>
+<li><strong>GitHub:</strong> <a href="https://github.com/GARYXTY">@GARYXTY</a></li>
+</ul>
+</div>

@@ -1,0 +1,11 @@
+# News items shown on the home page sidebar.
+# The 3 most recent are shown; all appear on /allnews.
+# Each entry needs: date, headline
+- date: February 2026
+  headline: "Our paper “Task-Oriented Learning for Automatic EEG Denoising” was accepted by IEEE Transactions on Instrumentation & Measurement."
+
+- date: October 2025
+  headline: "Our paper “Cross-Dataset Montage Alignment via Electroencephalogram Source Imaging for Enhanced Motor Decoding” was accepted by IEEE Transactions on Cognitive and Developmental Systems."
+
+- date: May 2025
+  headline: "Our proposal on brain-inspired computational intelligence for human learning modeling received an IEEE CIS Graduate Student Research Grant."

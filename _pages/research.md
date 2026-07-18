@@ -8,7 +8,7 @@ permalink: /research/
 ## Research
 
 <div class="banner-frame" markdown="0">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/summary.png" alt="Research overview connecting human manipulation modeling to robot learning" loading="lazy">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/summary.jpg" alt="Research overview connecting human manipulation modeling to robot learning" loading="lazy">
 <div class="banner-caption">My doctoral research connects multimodal manipulation representation, online neural decoding, and brain-inspired human–robot skill transfer.</div>
 </div>
 

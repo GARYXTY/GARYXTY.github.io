@@ -23,7 +23,7 @@ I received my Ph.D. in Pattern Recognition and Intelligent Systems from the Inst
 </div>
 
 <div class="banner-frame" markdown="0">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/summary.png" alt="Overview of Tianyu Xiang's research on human manipulation modeling and human–machine skill transfer" loading="lazy">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/summary.jpg" alt="Overview of Tianyu Xiang's research on human manipulation modeling and human–machine skill transfer" loading="lazy">
 <div class="banner-caption">Research overview: from multimodal human manipulation representation and online neural decoding to brain-inspired human–robot skill transfer.</div>
 </div>
 

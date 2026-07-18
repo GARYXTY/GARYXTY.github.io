@@ -15,11 +15,11 @@ permalink: /
 <a href="{{ site.url }}{{ site.baseurl }}/research/" class="chip">Brain-Inspired Robot Learning</a>
 </div>
 
-I received my Ph.D. in Pattern Recognition and Intelligent Systems from the Institute of Automation, Chinese Academy of Sciences in June 2026. My research asks two connected questions: **How do humans perform manipulation?** and **How can robots learn those skills efficiently?** I combine video, EEG, and EMG to model human manipulation from coarse behavior to fine neural control, then translate these representations and human learning mechanisms into sample-efficient robot-learning algorithms.
+I received my Ph.D. in Pattern Recognition and Intelligent Systems from the Institute of Automation, Chinese Academy of Sciences in June 2026. I am now conducting postdoctoral research at the [Penn State Neuromechanics Laboratory](https://sites.psu.edu/nml1/) at University Park. My research asks two connected questions: **How do humans perform manipulation?** and **How can robots learn those skills efficiently?** I combine video, EEG, and EMG to model human manipulation from coarse behavior to fine neural control, then translate these representations and human learning mechanisms into sample-efficient robot-learning algorithms.
 
 <div class="callout callout-success" markdown="0">
-<div class="callout-title"><i class="fa-solid fa-microscope callout-icon"></i> Open to postdoctoral opportunities</div>
-<p>I am seeking postdoctoral opportunities in cognitive robotics, human–robot interaction, brain–computer interfaces, and brain-inspired robot learning. I welcome research discussions and potential collaborations.</p>
+<div class="callout-title"><i class="fa-solid fa-handshake callout-icon"></i> Open to research collaborations</div>
+<p>I welcome interdisciplinary collaborations in neuromechanics, neural interfaces, multimodal human-skill modeling, and brain-inspired robot learning—especially projects connecting neuroscience, artificial intelligence, and robotics.</p>
 </div>
 
 <div class="banner-frame" markdown="0">
@@ -27,12 +27,12 @@ I received my Ph.D. in Pattern Recognition and Intelligent Systems from the Inst
 <div class="banner-caption">Research overview: from multimodal human manipulation representation and online neural decoding to brain-inspired human–robot skill transfer.</div>
 </div>
 
-### Research at a glance
+### Research highlights
 
-- **19** first/co-first-author papers published or accepted, including **six IEEE Transactions papers**
-- **Five** invention-patent applications as lead drafter, with **three granted**
-- Recipient of the **2026 Chinese Academy of Sciences President’s Special Award**
-- Principal investigator of an **IEEE CIS Graduate Student Research Grant**
+- **Multimodal skill representation:** Integrating video, EEG, and EMG to connect observable manipulation behavior with neural and muscular dynamics.
+- **Online neural decoding:** Developing robust EEG alignment, denoising, and adaptive decoding methods for motor-imagery and SSVEP-based interfaces.
+- **Brain-inspired robot learning:** Translating human learning mechanisms into sample-efficient robot policies and collaborative skill-acquisition strategies.
+- **Bidirectional human–robot skill transfer:** Combining human demonstrations, model expertise, and interaction to enable mutual adaptation between people and robots.
 
 My doctoral dissertation, *Multimodal Representation of Human Manipulation Skills and Brain-Inspired Human–Robot Skill Transfer*, develops a four-part research pipeline: cross-modal brain–muscle modeling, multi-scale manipulation representation, online EEG decoding, and multi-system bidirectional skill transfer.
 

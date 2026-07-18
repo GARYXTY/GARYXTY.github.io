@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tianyu Xiang</title>
+    <description>Academic website of Tianyu Xiang — multimodal human manipulation modeling, online neural decoding, and brain-inspired human–robot skill transfer.</description>
+    <link>https://garyxty.github.io/</link>
+    <atom:link href="https://garyxty.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sat, 18 Jul 2026 05:42:58 +0000</lastBuildDate>
+    
+    
+    <item>
+      <title>I received the Chinese Academy of Sciences President’s Special Award, the Academy’s highest honor for graduate students.</title>
+      <description>I received the Chinese Academy of Sciences President’s Special Award, the Academy’s highest honor for graduate students.</description>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <link>https://garyxty.github.io/allnews.html</link>
+    </item>
+    
+    <item>
+      <title>I completed my Ph.D. in Pattern Recognition and Intelligent Systems with a dissertation on multimodal human manipulation representation and brain-inspired human–robot skill transfer.</title>
+      <description>I completed my Ph.D. in Pattern Recognition and Intelligent Systems with a dissertation on multimodal human manipulation representation and brain-inspired human–robot skill transfer.</description>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <link>https://garyxty.github.io/allnews.html</link>
+    </item>
+    
+    <item>
+      <title>Our paper “Task-Oriented Learning for Automatic EEG Denoising” was accepted by IEEE Transactions on Instrumentation and Measurement.</title>
+      <description>Our paper “Task-Oriented Learning for Automatic EEG Denoising” was accepted by IEEE Transactions on Instrumentation and Measurement.</description>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <link>https://garyxty.github.io/allnews.html</link>
+    </item>
+    
+    <item>
+      <title>Our paper “Cross-Dataset Montage Alignment via Electroencephalogram Source Imaging for Enhanced Motor Decoding” was accepted by IEEE Transactions on Cognitive and Developmental Systems.</title>
+      <description>Our paper “Cross-Dataset Montage Alignment via Electroencephalogram Source Imaging for Enhanced Motor Decoding” was accepted by IEEE Transactions on Cognitive and Developmental Systems.</description>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <link>https://garyxty.github.io/allnews.html</link>
+    </item>
+    
+    <item>
+      <title>Our proposal on brain-inspired computational intelligence for human learning modeling received an IEEE CIS Graduate Student Research Grant.</title>
+      <description>Our proposal on brain-inspired computational intelligence for human learning modeling received an IEEE CIS Graduate Student Research Grant.</description>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <link>https://garyxty.github.io/allnews.html</link>
+    </item>
+    
+  </channel>
+</rss>

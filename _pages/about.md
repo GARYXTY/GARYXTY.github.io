@@ -19,6 +19,8 @@ permalink: /about/
 {% if site.links.google_scholar and site.links.google_scholar != "" %}<a href="{{ site.links.google_scholar }}" class="icon-link" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>{% endif %}
 {% if site.links.github and site.links.github != "" %}<a href="{{ site.links.github }}" class="icon-link" title="GitHub"><i class="fa-brands fa-github"></i></a>{% endif %}
 {% if site.links.researchgate and site.links.researchgate != "" %}<a href="{{ site.links.researchgate }}" class="icon-link" title="ResearchGate"><i class="ai ai-researchgate"></i></a>{% endif %}
+{% if site.links.linkedin and site.links.linkedin != "" %}<a href="{{ site.links.linkedin }}" class="icon-link" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>{% endif %}
+{% if site.links.twitter and site.links.twitter != "" %}<a href="{{ site.links.twitter }}" class="icon-link" title="X"><i class="fa-brands fa-x-twitter"></i></a>{% endif %}
 </div>
 {% if site.data.pi[0].education %}
 <ul style="margin-top: var(--space-4);">
@@ -33,10 +35,11 @@ permalink: /about/
 
 <div class="section-card">
 <h3>Biography</h3>
-<p>I received my Ph.D. in Pattern Recognition and Intelligent Systems from the Institute of Automation, Chinese Academy of Sciences in June 2026, under the supervision of Prof. <a href="https://people.ucas.ac.cn/~houzengguang">Zengguang Hou</a> and Prof. <a href="https://people.ucas.edu.cn/~xhz">Xiaohu Zhou</a>. My doctoral research connects multimodal human manipulation modeling with brain-inspired robot learning. I study how high-level brain planning and low-level muscular execution interact, how manipulation can be represented across behavioral and neural scales, and how these representations can support efficient human–robot skill transfer.</p>
-<p>In November 2025, I was a visiting student at Victoria University of Wellington under the supervision of Prof. Bing Xue. Before my Ph.D., I received my B.S. in Automation from Tongji University (2017–2021), where I graduated as an Academic Star and worked with Prof. <a href="https://ivcm.tongji.edu.cn/info/1100/1178.htm">Zhuping Wang</a> and Lingzhe Zhao on monocular depth estimation and visual odometry. I have also collaborated on bioinformatics research for cancer classification and prognosis prediction.</p>
+<p>I am currently a postdoctoral researcher at the <a href="https://sites.psu.edu/nml1/">Penn State Neuromechanics Laboratory</a>, The Pennsylvania State University, at University Park. My postdoctoral work lies at the intersection of neuromechanics, neural interfaces, machine learning, and rehabilitation robotics.</p>
+<p>I received my Ph.D. in Pattern Recognition and Intelligent Systems from the Institute of Automation, Chinese Academy of Sciences in June 2026, under the supervision of Prof. <a href="https://people.ucas.ac.cn/~houzengguang">Zengguang Hou</a> and Prof. <a href="https://people.ucas.edu.cn/~xhz">Xiaohu Zhou</a>. My doctoral research connects multimodal human manipulation modeling with brain-inspired robot learning. I study how high-level brain planning and low-level muscular execution interact, how manipulation can be represented across behavioral and neural scales, and how these representations can support efficient human–robot skill transfer. During my doctoral studies, I received the <strong>2026 Chinese Academy of Sciences President’s Special Award</strong>, the Academy’s highest honor for graduate students.</p>
+<p>In November 2025, I was a visiting student at Victoria University of Wellington under the supervision of Prof. Bing Xue. Before my Ph.D., I received my B.S. in Automation from Tongji University (2017–2021), where I was named an <strong>Academic Star of Tongji University</strong>, the University’s highest honor for undergraduate students. I worked with Prof. <a href="https://ivcm.tongji.edu.cn/info/1100/1178.htm">Zhuping Wang</a> and Lingzhe Zhao on monocular depth estimation and visual odometry. I have also collaborated on bioinformatics research for cancer classification and prognosis prediction.</p>
 <p>As of July 2026, I have published or received acceptance for 19 first/co-first-author papers, including six IEEE Transactions papers. I have served as lead drafter on five invention-patent applications, three of which have been granted.</p>
-<p><strong>I am currently seeking postdoctoral opportunities in cognitive robotics, human–robot interaction, brain–computer interfaces, and brain-inspired robot learning.</strong></p>
+<p><strong>I welcome interdisciplinary research collaborations in neuromechanics, rehabilitation robotics, human–robot interaction, brain–computer interfaces, and brain-inspired robot learning.</strong></p>
 </div>
 
 <div class="section-card">
@@ -68,16 +71,11 @@ permalink: /about/
 </div>
 {% endif %}
 
-{% if site.data.people %}
 <div class="section-card">
-<h3>Students and Mentoring</h3>
-<ul>
-{% for student in site.data.people %}
-<li>{{ student.name }}, {{ student.location }} ({{ student.degree }}, {{ student.year }})</li>
-{% endfor %}
-</ul>
+<h3>Teaching Experience</h3>
+<p><strong>Teaching Assistant, Medical and Rehabilitation Robotics, University of Chinese Academy of Sciences, Spring 2026.</strong> Assisted with course instruction, class activities, and student learning.</p>
+<p><strong>Research Mentor, University of Chinese Academy of Sciences, 2023–2026.</strong> Assisted faculty in supervising research projects for 15 undergraduate and master’s students; advised on project scoping, methodology, data analysis, and presentation.</p>
 </div>
-{% endif %}
 
 {% if site.data.funders %}
 <div class="section-card">

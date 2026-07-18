@@ -158,7 +158,9 @@
         }
       });
     }, {
-      threshold: 0.1,
+      // Long pages can never place 10% of the wrapper inside a phone viewport.
+      // Reveal as soon as any part of the section enters the viewport.
+      threshold: 0,
       rootMargin: '0px 0px -40px 0px'
     });
 

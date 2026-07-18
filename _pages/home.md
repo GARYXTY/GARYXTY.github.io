@@ -29,9 +29,11 @@ I received my Ph.D. in Pattern Recognition and Intelligent Systems from the Inst
 
 ### Research highlights
 
-- **Multimodal skill representation:** Integrating video, EEG, and EMG to connect observable manipulation behavior with neural and muscular dynamics.
-- **Online neural decoding:** Developing robust EEG alignment, denoising, and adaptive decoding methods for motor-imagery and SSVEP-based interfaces.
-- **Brain-inspired robot learning:** Translating human learning mechanisms into sample-efficient robot policies and collaborative skill-acquisition strategies.
-- **Bidirectional human–robot skill transfer:** Combining human demonstrations, model expertise, and interaction to enable mutual adaptation between people and robots.
+Robot skill learning remains limited by low data efficiency and weak generalization. Inspired by human learning, I investigate how the brain controls muscles during skill execution and acquisition, build brain–muscle modulation models, and transfer these mechanisms to robots to enable brain-inspired skill learning.
+
+- **Human skill modeling:** Modeling human manipulation and learning across video, EEG, and EMG, from observable behavior to brain–muscle control.
+- **Brain-inspired robot learning:** Transferring human skill representations and learning mechanisms to robots for more efficient and generalizable skill acquisition.
+- **Research outputs:** 19 first/co-first-author papers published or accepted—eight journal papers and eleven international conference papers, including six IEEE Transactions papers—and five invention-patent applications as lead drafter, with three granted.
+- **Recognition and support:** Recipient of the 2026 Chinese Academy of Sciences President’s Special Award and the IEEE RCAR Best Paper Award; supported by the Direct Ph.D. Pilot Program, an IEEE CIS Graduate Student Research Grant, and an IEEE CIS Travel Grant.
 
 [Explore my research →]({{ site.url }}{{ site.baseurl }}/research/) · [Read my biography →]({{ site.url }}{{ site.baseurl }}/about/)

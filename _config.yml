@@ -2,8 +2,8 @@
 # STEP 1: Your Identity (required)
 # ============================================================
 name: "Tianyu Xiang"
-title: "Ph.D. in Pattern Recognition and Intelligent Systems"
-institution: "Institute of Automation, Chinese Academy of Sciences"
+title: "Postdoctoral Researcher"
+institution: "Penn State Neuromechanics Laboratory, The Pennsylvania State University"
 email: xiangtianyu2021@ia.ac.cn
 photo: xty.png
 
@@ -15,8 +15,8 @@ links:
   github: "https://github.com/GARYXTY"
   researchgate: ""
   orcid: "https://orcid.org/0000-0002-0967-0823"
-  twitter: ""
-  linkedin: ""
+  twitter: "https://x.com/garyxty"
+  linkedin: "https://www.linkedin.com/in/tianyu-xiang-28409839b/"
   cv: ""  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
 
 # ============================================================

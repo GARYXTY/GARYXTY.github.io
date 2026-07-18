@@ -1,9 +1,11 @@
 2026
 ====
 
-* **Tianyu Xiang<sup>+</sup>**, Zheng Lei<sup>+</sup>, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Hongyun Ou, Xinzheng Huang, Xinyi Fu, Zengguang Hou, “Task-oriented learning for automatic EEG denoising,” *IEEE Transactions on Instrumentation and Measurement*, 2026. [DOI](https://doi.org/10.1109/TIM.2026.3667226)
+* **Tianyu Xiang<sup>+</sup>**, Zheng Lei<sup>+</sup>, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Hongyun Ou, Xinzheng Huang, Xinyi Fu, Zengguang Hou, “Task-oriented learning for automatic EEG denoising,” *IEEE Transactions on Instrumentation and Measurement*, vol. 75, p. 4005015, 2026. [View paper](https://ieeexplore.ieee.org/abstract/document/11420948)
 
-* Dexing Huang, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Shuangyi Wang, **Tianyu Xiang**, Ruize Ma, Nufang Xiao, Zengguang Hou, "VasoMIM: vascular anatomy-aware masked image modeling for vessel segmentation" Accepted by the Annual AAAI Conference on Artificial Intelligence (AAAI).
+* Dexing Huang, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Shuangyi Wang, **Tianyu Xiang**, Ruize Ma, Nufang Xiao, Zengguang Hou, “VasoMIM: vascular anatomy-aware masked image modeling for vessel segmentation,” in *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, vol. 40, no. 6, pp. 4985–4993, 2026. [View paper](https://ojs.aaai.org/index.php/AAAI/article/view/42503)
+
+* Dexing Huang, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Shuangyi Wang, Zhenqiu Feng, Meijiang Gui, Hao Li, **Tianyu Xiang**, Boxian Yao, Zengguang Hou, “SPIRONet: spatial-frequency learning and graph-based channel interaction network for vessel segmentation,” *Biomedical Signal Processing and Control*, vol. 126, part B, article 110814, 2026. [View paper](https://www.sciencedirect.com/science/article/abs/pii/S1746809426013686)
 
 2025
 ====

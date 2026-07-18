@@ -1,7 +1,7 @@
 2026
 ====
 
-* **Tianyu Xiang<sup>+</sup>**, Zheng Lei<sup>+</sup>, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Hongyun Ou, Xinzheng Huang, Xinyi Fu, Zengguang Hou, "Task-oriented learning for automatic EEG denoising", *IEEE Transactions on Instrumentation & Measurement*, 2026. (Accept)
+* **Tianyu Xiang<sup>+</sup>**, Zheng Lei<sup>+</sup>, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Hongyun Ou, Xinzheng Huang, Xinyi Fu, Zengguang Hou, “Task-oriented learning for automatic EEG denoising,” *IEEE Transactions on Instrumentation and Measurement*, 2026. [DOI](https://doi.org/10.1109/TIM.2026.3667226)
 
 * Dexing Huang, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Shuangyi Wang, **Tianyu Xiang**, Ruize Ma, Nufang Xiao, Zengguang Hou, "VasoMIM: vascular anatomy-aware masked image modeling for vessel segmentation" Accepted by the Annual AAAI Conference on Artificial Intelligence (AAAI).
 
@@ -12,9 +12,9 @@
   
 * **Tianyu Xiang**, Xiaohu Zhou, Xiaoliang Xie, Shiqi Liu, Hongjun Yang, Fengzhen Qiu, Meijiang Gui, Hao Li, De-Xing Huang, Xiu-Ling Liu, and Zengguang Hou, “Learning EEG motor characteristics via temporal-spatial representations”, *IEEE Transactions on Emerging Topics in Computational Intelligence*, vol. 9, no. 1, pp. 933-945, 2025. [view paper](https://ieeexplore.ieee.org/abstract/document/10663067)
 
-* **Tianyu Xiang**, Xiaohu Zhou,  Meijiang Gui, Xiaoliang Xie, Shiqi Liu,, Hao Li, Dexing Huang, Jiaxing Wang, Yongqiang Tang, Jiamou Liu, Xiu-Ling Liu, and Zengguang Hou, “"Upper limb motor sequence analysis: from isolated to sequential”, *IEEE Transactions on Industrial Informatics*, vol. 21, no. 7, pp. 5093 - 5103, 2025. [view paper](https://ieeexplore.ieee.org/abstract/document/10966163)
+* **Tianyu Xiang**, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Hao Li, Dexing Huang, Jiaxing Wang, Yongqiang Tang, Jiamou Liu, and Zengguang Hou, “Upper limb motor sequence analysis: from isolated to sequential,” *IEEE Transactions on Industrial Informatics*, vol. 21, no. 7, pp. 5093–5103, 2025. [view paper](https://ieeexplore.ieee.org/abstract/document/10966163)
 
-* **Tianyu Xiang<sup>+</sup>**, Wenkai Wang<sup>+</sup>, Xiaohu Zhou, Hongjun Yang, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Jiaxing Wang, Jiamou Liu, Zengguang Hou, “Cross-dataset montage alignment via EEG source imaging for enhanced motor decoding,” *IEEE Transactions on Cognitive and Developmental Systems*, 2025. (Accept)
+* **Tianyu Xiang<sup>+</sup>**, Wenkai Wang<sup>+</sup>, Xiaohu Zhou, Hongjun Yang, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Jiaxing Wang, Jiamou Liu, Zengguang Hou, “Cross-dataset montage alignment via electroencephalogram source imaging for enhanced motor decoding,” *IEEE Transactions on Cognitive and Developmental Systems*, 2025. [DOI](https://doi.org/10.1109/TCDS.2025.3624805)
 
 * **Tianyu Xiang<sup>+</sup>**, Aoqun Jin<sup>+</sup>, Xiaohu Zhou, Meijiang Gui, Xiaoliang Xie, Shiqi Liu, Shuangyi Wang, Shengbin Duang, Sicheng Wang, Zheng Lei, Zengguang Hou, "VLA model-expert collaboration for bi-directional manipulation learning", arXiv preprint arXiv:2503.04163. [view paper](https://arxiv.org/abs/2503.04163), [website](https://aoqunjin.github.io/Expert-VLA/)
 

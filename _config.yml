@@ -2,7 +2,7 @@
 # STEP 1: Your Identity (required)
 # ============================================================
 name: "Tianyu Xiang"
-title: "Ph.D. Candidate"
+title: "Ph.D. in Pattern Recognition and Intelligent Systems"
 institution: "Institute of Automation, Chinese Academy of Sciences"
 email: xiangtianyu2021@ia.ac.cn
 photo: xty.png
@@ -24,7 +24,7 @@ links:
 # ============================================================
 accent_color: "#174f87"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
-description: "Academic website of Tianyu Xiang — human manipulation modeling, robot learning, and brain-computer interfaces."
+description: "Academic website of Tianyu Xiang — multimodal human manipulation modeling, online neural decoding, and brain-inspired human–robot skill transfer."
 baseurl: ""
 url: "https://garyxty.github.io"
 

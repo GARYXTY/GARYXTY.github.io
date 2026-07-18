@@ -9,26 +9,31 @@ permalink: /
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Human Manipulation Modeling</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Robot Skill Learning</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Brain–Computer Interfaces</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Human–Robot Interaction</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research/" class="chip">Multimodal Manipulation Modeling</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research/" class="chip">Brain–Muscle Modulation</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research/" class="chip">Online Neural Decoding</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research/" class="chip">Brain-Inspired Robot Learning</a>
 </div>
 
-I am a Ph.D. candidate at the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences. My research focuses on **human manipulation modeling** and **robotic skill learning**: understanding brain–muscle coordination during human manipulation and translating those insights into learning algorithms that help robots acquire skills more efficiently, robustly, and dexterously.
+I received my Ph.D. in Pattern Recognition and Intelligent Systems from the Institute of Automation, Chinese Academy of Sciences in June 2026. My research asks two connected questions: **How do humans perform manipulation?** and **How can robots learn those skills efficiently?** I combine video, EEG, and EMG to model human manipulation from coarse behavior to fine neural control, then translate these representations and human learning mechanisms into sample-efficient robot-learning algorithms.
 
 <div class="callout callout-success" markdown="0">
 <div class="callout-title"><i class="fa-solid fa-microscope callout-icon"></i> Open to postdoctoral opportunities</div>
-<p>I expect to complete my Ph.D. in June 2026 and am seeking postdoctoral opportunities in cognitive robotics, human–robot interaction, and brain–computer interfaces. I welcome research discussions and potential collaborations.</p>
+<p>I am seeking postdoctoral opportunities in cognitive robotics, human–robot interaction, brain–computer interfaces, and brain-inspired robot learning. I welcome research discussions and potential collaborations.</p>
 </div>
 
 <div class="banner-frame" markdown="0">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/summary.png" alt="Overview of Tianyu Xiang's research on human manipulation modeling and human–machine skill transfer" loading="lazy">
-<div class="banner-caption">Research overview: from human brain–muscle modeling and online skill decoding to human-inspired robot learning.</div>
+<div class="banner-caption">Research overview: from multimodal human manipulation representation and online neural decoding to brain-inspired human–robot skill transfer.</div>
 </div>
 
-### About me
+### Research at a glance
 
-Since Fall 2021, I have worked in the Medical Robotics Lab under the supervision of Prof. [Zengguang Hou](https://people.ucas.ac.cn/~houzengguang) and Prof. [Xiaohu Zhou](https://people.ucas.edu.cn/~xhz). Before beginning my Ph.D., I received my B.S. in Automation from Tongji University, where I graduated as an Academic Star and worked with Prof. [Zhuping Wang](https://ivcm.tongji.edu.cn/info/1100/1178.htm) on monocular depth estimation and visual odometry.
+- **19** first/co-first-author papers published or accepted, including **six IEEE Transactions papers**
+- **Five** invention-patent applications as lead drafter, with **three granted**
+- Recipient of the **2026 Chinese Academy of Sciences President’s Special Award**
+- Principal investigator of an **IEEE CIS Graduate Student Research Grant**
 
-[Read more about my background →]({{ site.url }}{{ site.baseurl }}/about)
+My doctoral dissertation, *Multimodal Representation of Human Manipulation Skills and Brain-Inspired Human–Robot Skill Transfer*, develops a four-part research pipeline: cross-modal brain–muscle modeling, multi-scale manipulation representation, online EEG decoding, and multi-system bidirectional skill transfer.
+
+[Explore my research →]({{ site.url }}{{ site.baseurl }}/research/) · [Read my biography →]({{ site.url }}{{ site.baseurl }}/about/)

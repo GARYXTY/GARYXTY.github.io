@@ -34,6 +34,4 @@ I received my Ph.D. in Pattern Recognition and Intelligent Systems from the Inst
 - **Brain-inspired robot learning:** Translating human learning mechanisms into sample-efficient robot policies and collaborative skill-acquisition strategies.
 - **Bidirectional human–robot skill transfer:** Combining human demonstrations, model expertise, and interaction to enable mutual adaptation between people and robots.
 
-My doctoral dissertation, *Multimodal Representation of Human Manipulation Skills and Brain-Inspired Human–Robot Skill Transfer*, develops a four-part research pipeline: cross-modal brain–muscle modeling, multi-scale manipulation representation, online EEG decoding, and multi-system bidirectional skill transfer.
-
 [Explore my research →]({{ site.url }}{{ site.baseurl }}/research/) · [Read my biography →]({{ site.url }}{{ site.baseurl }}/about/)

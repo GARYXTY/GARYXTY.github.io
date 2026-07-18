@@ -41,6 +41,7 @@ nav_pages:
   - name: research
   - name: awards
   - name: cv
+    label: CV
   - name: contact
 
 # ============================================================

@@ -8,6 +8,17 @@ permalink: /cv/
 ## Curriculum Vitae
 
 <div class="section-card">
+<h3>Work Experience</h3>
+<ul>
+<li><strong>Postdoctoral Researcher</strong>, <a href="https://sites.psu.edu/nml1/">Penn State Neuromechanics Laboratory</a>, The Pennsylvania State University, University Park, PA, 2026–present
+  <ul>
+  <li>Principal Investigator: Prof. <a href="https://hhd.psu.edu/contact/xiaogang-hu">Xiaogang Hu</a></li>
+  </ul>
+</li>
+</ul>
+</div>
+
+<div class="section-card">
 <h3>Education</h3>
 <ul>
 <li><strong>Ph.D. in Pattern Recognition and Intelligent Systems</strong>, Institute of Automation, Chinese Academy of Sciences, 2021–2026
@@ -19,7 +30,7 @@ permalink: /cv/
 </li>
 <li><strong>Visiting Student</strong>, Victoria University of Wellington, November 2025
   <ul>
-  <li>Supervisor: Prof. Bing Xue</li>
+  <li>Supervisor: Prof. <a href="https://people.wgtn.ac.nz/bing.xue">Bing Xue</a></li>
   </ul>
 </li>
 <li><strong>B.S. in Automation</strong>, School of Electronic and Information Engineering, Tongji University, 2021
@@ -49,18 +60,11 @@ permalink: /cv/
 </div>
 
 <div class="section-card">
-<h3>Teaching & Mentoring</h3>
-<p><strong>Research Mentor, University of Chinese Academy of Sciences, 2023–present.</strong> Assisted in supervising research projects for 15 undergraduate and master’s students, including project scoping, methodology, data analysis, and presentation.</p>
-<p><strong>Current:</strong> Aoqun Jin, Xinyi Fu, Lingyun Li, Sicheng Wang, Rui Mu, Zheng Lei, and Xinzheng Huang.</p>
-<p><strong>Previous:</strong> Yuxin Meng, Hongyun Ou, Wenkai Wang, Fuchao Xie, and Shixuan Zhao.</p>
-</div>
-
-<div class="section-card">
 <h3>Academic Service</h3>
 <ul>
 <li>Journal reviewer: <em>Scientific Reports</em>; <em>Pattern Analysis and Applications</em></li>
 <li>Conference reviewer: AAAI, ICRA, IJCNN, ICONIP, ICRAM, and ROBIO</li>
-<li>Chair, Direct Ph.D. Pilot Program, 2024–present</li>
+<li>Chair, Direct Ph.D. Pilot Program, 2024–2025</li>
 </ul>
 </div>
 

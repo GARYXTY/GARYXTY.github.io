@@ -3,8 +3,10 @@
 # Delete this file if you only need the basics.
 
 - education:
-    - "(Expected 2026) Ph.D. Pattern Recognition and Intelligent Systems, Institute of Automation, Chinese Academy of Sciences"
+    - "(2026) Ph.D. Pattern Recognition and Intelligent Systems, Institute of Automation, Chinese Academy of Sciences"
+    - "(2025) Visiting Student, Victoria University of Wellington"
     - "(2021) B.S. Automation, Tongji University"
   educationshort:
-    - "Ph.D. Candidate, Chinese Academy of Sciences"
+    - "Ph.D., Chinese Academy of Sciences"
+    - "Visiting Student, Victoria University of Wellington"
     - "B.S. Automation, Tongji University"

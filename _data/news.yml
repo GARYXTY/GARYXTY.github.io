@@ -1,8 +1,14 @@
 # News items shown on the home page sidebar.
 # The 3 most recent are shown; all appear on /allnews.
 # Each entry needs: date, headline
+- date: "2026"
+  headline: "I received the Chinese Academy of Sciences President’s Special Award, the Academy’s highest honor for graduate students."
+
+- date: June 2026
+  headline: "I completed my Ph.D. in Pattern Recognition and Intelligent Systems with a dissertation on multimodal human manipulation representation and brain-inspired human–robot skill transfer."
+
 - date: February 2026
-  headline: "Our paper “Task-Oriented Learning for Automatic EEG Denoising” was accepted by IEEE Transactions on Instrumentation & Measurement."
+  headline: "Our paper “Task-Oriented Learning for Automatic EEG Denoising” was accepted by IEEE Transactions on Instrumentation and Measurement."
 
 - date: October 2025
   headline: "Our paper “Cross-Dataset Montage Alignment via Electroencephalogram Source Imaging for Enhanced Motor Decoding” was accepted by IEEE Transactions on Cognitive and Developmental Systems."

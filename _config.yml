@@ -42,7 +42,6 @@ nav_pages:
   - name: awards
   - name: cv
     label: CV
-  - name: contact
 
 # ============================================================
 # Advanced Settings (you probably don't need to change these)
